@@ -1,0 +1,178 @@
+*
+{
+	box-sizing:border:box;
+}
+
+body
+{
+	background-color:#ECEBDE;
+	margin:0px;
+}
+
+
+
+.nav-scrn-up
+{
+	
+	background-color:white;
+	display:none;
+}
+
+
+.nav-up
+{
+	width:98%;
+	height:30px;
+	background-color:white;
+	padding:1%;
+	float:left;
+}
+
+.search-1
+{
+	display:flex;
+}
+
+.logo
+{
+	width:2.5%;
+	height:100%;
+	margin-left:5%;
+}
+
+.search
+{
+	margin-top:px;
+	margin-left:1%;
+	width:18%;
+	border-radius:20px;
+	border:1px solid black;
+	padding:0.5%;
+}
+
+.txt2
+{
+	font-size:15px;
+}
+
+.icons
+{
+	display:flex;
+	gap:2%;
+	padding:0.3%;	
+	margin-left:30%;
+	margin-top:-40px;
+	background-color:skyblu;
+	width:65%;
+}
+
+.me
+{
+	display:flex;
+	text-align:center;
+	margin-left:40%;
+}
+
+.pfp
+{
+	width:17%;
+	height:20px;
+	border-radius:20px;
+	margin-top:0px;
+}
+
+.bsn 
+{
+	font-size:25px;
+	color:grey;
+	margin-left:18%;
+}
+
+.busn
+{
+	width:15%;
+	background-color:re;
+	font-size:15px;
+}
+
+.pric
+{
+	color:#d4b05d;
+	font-size:25px;
+	margin-left:30%;
+}
+
+.prm
+{
+	width:20%;
+	background-color:yello;
+	font-size:15px;
+}
+
+.bnss
+{
+	display:flex;
+	gap:2%;
+}
+
+.prm
+{
+}
+
+.hm
+{
+	font-size:20px;
+}
+.home
+{
+	text-align:center;
+	background-color:re;
+	height:50px;
+	width:20%;
+	text-decoration:none;
+	color:black;
+}
+.Ntw
+{
+	text-align:center;
+	background-color:re;
+	height:50px;
+	width:20%;
+	color:grey;
+	margin-left:-9%;
+	text-decoration:none;
+}
+
+.Ntw:hover
+{
+	color:black;
+}
+
+.home:hover
+{
+	border-bottom:2px solid black;
+}
+
+.home-page
+{
+	
+}
+	
+
+
+
+@media screen and (max-width:770px)
+{
+	.nav-up
+	{
+		display:none;
+	}
+	
+	.nav-scrn-up
+	{
+		display:block;
+		height:50px;
+		width:100%;
+	}
+}
+
