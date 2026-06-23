@@ -242,6 +242,7 @@ body
 	background-color:skyblue;
 	padding:1%;
 	display:flex;
+	gap:2%;
 }
 
 .div1
@@ -256,6 +257,25 @@ body
 	font-weight:bold;
 }
 
+.nav-list
+{
+	display:flex;
+	gap:2%;
+	width:50%;
+	background-color:re;
+}
+
+.li1
+{
+	width:10%;
+	height:20px;
+	border:2px solid grey;
+	border-radius:20px;
+	text-align:center;
+	font-weight:bold;
+	font-size:20px;
+	padding:1%;
+}
 
 .section2
 {
