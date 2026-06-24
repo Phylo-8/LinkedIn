@@ -332,7 +332,7 @@ body
 {
 	width:100%;
 	background-color:white;
-	height:800px;
+	height:900px;
 	margin-top:2%;
 	border-radius:15px;
 }
@@ -394,6 +394,21 @@ body
 	padding:1%;
 	color:blue;
 	border-radius:20px;
+}
+
+.j2
+{
+	width:10%;
+	text-align:center;
+}
+
+.input
+{
+	width:75%;
+	margin-top:1.5%;
+	padding:1.5%;
+	border-radius:10px;
+	border:1px solid grey;
 }
 
 .sidebar2

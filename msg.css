@@ -166,14 +166,14 @@ body
 {
 	display:flex;
 	width:60%;
-	margin-top:-55px;
+	margin-top:-120px;
 	margin-left:40%;
 }
 
 .main
 {
 	width:96%;
-	height:600px;
+	height:525px;
 	background-color:;
 	margin-top:3%;
 	padding:2%;
@@ -184,7 +184,7 @@ body
 .section1
 {
 	width:70%;
-	height:700px;
+	height:550px;
 	background-color:white;
 	border-radius:15px;
 }
@@ -238,8 +238,8 @@ body
 .msg-nav
 {
 	width:98%;
-	height:40px;
-	background-color:skyblue;
+	height:30px;
+	background-color:skyblu;
 	padding:1%;
 	display:flex;
 	gap:2%;
@@ -261,25 +261,213 @@ body
 {
 	display:flex;
 	gap:2%;
-	width:50%;
+	width:55%;
 	background-color:re;
 }
 
 .li1
 {
-	width:10%;
-	height:20px;
-	border:2px solid grey;
+	width:17%;
+	height:18px;
+	border:1.5px solid grey;
 	border-radius:20px;
 	text-align:center;
 	font-weight:bold;
-	font-size:20px;
-	padding:1%;
+	font-size:17px;
+	padding:1.5%;
+}
+
+.li2
+{
+	width:20%;
+}
+
+.li3
+{
+	width:28%;
+}
+
+.sms
+{
+	width:100%;
+	height:550px;
+	display:flex;
+	background-color:skyblu;
+}
+
+.sm1
+{
+	width:35%;
+	height:413px;
+	border-bottom-left-radius:15px;
+	border:1px solid grey;
+	margin-top:-9px;
+}
+
+.txt1
+{
+	width:100%;
+	height:90px;
+	display:flex;
+	gap:2%;
+}
+
+.txt
+{
+	width:100%;
+}
+
+.txt-hd
+{
+	display:flex;
+	gap:15%;
+	margin-top:6%;
+	width:100%;
+	background-color:yello;
+	font-size:17px;
+}
+
+.hd2
+{
+	gap:20%;
+	font-size:16px;
+}
+
+
+.im-txt
+{
+	width:15%;
+	height:40px;
+	padding:3%;
+	margin-top:5%;
+}
+
+.txt2
+{
+	width:100%;
+	height:90px;
+	display:flex;
+	gap:2%;
+	border:none;
+	
+}
+
+.txt6
+{
+	border-left:5px solid green;
+	color:black;
+}
+
+.sm2
+{
+	width:70%;
+	height:413px;
+	border:1px solid grey;
+	border-bottom-right-radius:15px;
+	margin-top:-9px;
+
+}
+
+.k-sms
+{
+	border:none;
+	width:44%;
+	margin-top:17.5%;
+	margin-left:24.5%;
+	
+}
+
+.sms-nav
+{
+	width:100%;
+	height:30px;
+	background-color:skyblue;
 }
 
 .section2
 {
-	width:30%;
-	height:300px;
-	background-color:white;
+	width:25%;
+	height:450px;
+	background-color:yello;
+	position:fixed;
+	margin-left:71%;
+	border-radius:15px;
+}
+
+
+
+.advt
+{
+	
+	width:100%;
+	background-color:gree;
+
+}
+
+.adv-img
+{
+	width:100%;
+	border-radius:15px;
+	height:250px;
+	margin-top:2%;
+	
+	
+}
+
+.about
+{
+	margin-top:1%;
+	width:100%;
+	height:200px;
+	
+}
+
+.row1
+{
+	display:flex;
+	gap:15%;
+	width:90%;
+	margin-left:13%;
+	height:10px;
+	background-color:yello;	
+	
+}
+
+.rlst
+{
+	color:grey;
+	font-size:13px;
+}
+
+.row2
+{
+	display:flex;
+	gap:10%;
+	margin-top:3%;
+	margin-left:7%;
+}
+
+.copyright
+{
+	display:flex;
+	gap:3%;
+	margin-top:5%;
+	margin-left:12%;
+}
+
+.nme
+{
+	color:blue;
+	font-size:17px;
+	font-weight:bold;
+}
+
+.lnkd
+{
+	color:blue;
+}
+
+.nme2
+{
+	margin-top:0.5%;
 }
