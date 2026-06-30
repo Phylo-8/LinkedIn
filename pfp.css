@@ -342,7 +342,18 @@ main
 
 .aytc
 {
-	
+	height:200px;
+	background-color:white;
+	margin-top:1%;
+	border-radius:15px;
+	padding:1%;
+}
+
+.s-hd2
+{
+	font-size:25px;
+	font-weight:bold;
+	margin-left:2%;
 }
 
 .sect2
