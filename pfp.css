@@ -196,7 +196,7 @@ main
 {
 	width:15%;
 	padding:1%;
-	height:120px;
+	height:130px;
 	margin-top:15%;
 	margin-left:2%;
 	border-radius:100px;
@@ -214,7 +214,7 @@ main
 {
 	display:flex;
 	gap:1%;
-	margin-top:3%;
+	margin-top:2%;
 }
 
 .her
@@ -342,11 +342,11 @@ main
 
 .aytc
 {
-	height:200px;
+	height:220px;
 	background-color:white;
 	margin-top:1%;
 	border-radius:15px;
-	padding:1%;
+	padding:1.5%;
 }
 
 .s-hd2
@@ -356,11 +356,437 @@ main
 	margin-left:2%;
 }
 
+.updates
+{
+	display:flex;
+	gap:8%;
+	background-color:yello;
+	height:80px;
+	margin-left:2%;
+	margin-top:2%;
+}
+
+.upd1
+{
+	width:25%;
+	height:100px;
+	background-color:re;
+}
+
+.title2
+{
+	display:flex;
+	gap:2%;
+	padding:1%;
+}
+
+.sub-hd
+{
+	font-size:18px;
+	font-weight:bold;
+	padding:1%;
+}
+
+.tlt-dcpt
+{
+	margin-top:1%;
+}
+
+.widt
+{
+	width:30%;
+}
+
+.shw
+{
+	text-align:center;
+	font-size:17px;
+	margin-top:1.5%;
+	font-size:bold;
+}
+
+.intrest
+{
+	height:230px;
+	background-color:white;
+	margin-top:5%;
+	border-radius:15px;
+}
+
+.int
+{
+	font-size:25px;
+	font-weight:bold;
+	padding:1.5%;
+	margin-left:2%;
+}
+
+.option
+{
+	display:flex;
+	gap:2%;
+	background-color:skyblu;
+	width:95%;
+	margin-left:2.5%;
+}
+
+.tp
+{
+	width:10%;
+	background-color:green;
+	color:white;
+	padding:1%;
+	border-radius:20px;
+	text-align:center;
+	
+}
+	
+.cmps
+{
+	width:10%;
+	border:2px solid black;
+	padding:0.5%;
+	text-align:center;
+	border-radius:20px;
+}
+
+.flwrs
+{
+	width:50%;
+	height:50px;
+	background-color:re;
+	margin-left:3%;
+	margin-top:1%;
+	padding:1%;
+	display:flex;
+}
+
+.accnt1
+{
+	width:100%;
+	height:70px;
+	border-radius:10px;
+	background-color:re;
+	display:flex;
+	
+}
+
+.act-img
+{
+	width:12%;
+	height:50px;
+	padding:1%;
+	border-radius:50px;
+}
+
+.act-inf
+{
+	padding:1.5%;
+	font-size:19px;
+	font-weight:bol;
+	width:100%;
+}
+
+.sp-nmes
+{
+	display:flex;
+	gap:1%;
+	font-weight:bold;
+}
+
+.ceo
+{
+	color:grey;
+	font-size:15px;
+}
+
+.flw-btn
+{
+	margin-top:2%;
+	margin-left:10%;
+	border:2px solid black;
+	width:15%;
+	text-align:center;
+	padding:0.5%;
+	border-radius:20px;
+}
+
+
 .sect2
 {
 	width:30%;
 	height:600px;
+	background-color:whit;
+	margin-top:2%;
+	border-radius:15px;
+}
+
+.perform
+{
+	height:230px;
+	border-radius:15px;
+	background-color:white;
+}
+
+.prf1
+{
+	width:100%;
+}
+
+.pfng
+{
+	font-size:22px;
+	padding:4%;
+	font-weight:bold;
+	
+}
+
+.eng
+{
+	color:grey;
+	margin-left:5%;
+	width:70%;
+	background-color:re;
+}
+
+.ppl-kn
+{
+	width:100%;
+	height:730px;
 	background-color:white;
 	margin-top:2%;
 	border-radius:15px;
+}
+
+.kn-hd
+{
+	font-size:18px;
+	padding:4%;
+	font-weight:bold;
+	margin-bottom:0px;
+}
+
+.sub-kn
+{
+	color:grey;
+	margin-left:4%;
+	margin-top:-12px;
+}
+
+.connect1
+{
+	height:80px;
+	background-color:re;
+	margin-top:2%;
+	padding:2%;
+}
+
+.box1
+{
+	display:flex;
+}
+
+
+.cnt-img
+{
+	width:15%;
+	height:50px;
+	padding:1%;
+	border-radius:60px;
+}
+
+.cnt-inf
+{
+	padding:1.5%;
+	font-size:19px;
+	width:100%;
+}
+
+.cnt-nmes
+{
+	display:flex;
+	gap:2%;
+	font-weight:bold;
+}
+
+.cnt
+{
+	color:black;
+	font-size:15px;
+}
+
+.cnt-btn
+{
+	border:1px solid black;
+	width:25%;
+	padding:1%;
+	border-radius:20px;
+	text-align:center;
+	margin-left:25%;
+	margin-top:2%;
+}
+
+.likes
+{
+	height:420px;
+	background-color:white;
+	border-radius:15px;
+	margin-top:2%;
+}
+
+.TED
+{
+	height:100px;
+	background-color:re;
+	margin-top:3%;
+	padding:2%;
+}
+
+.ted1
+{
+	display:flex;
+}
+
+.cnt2
+{
+	color:grey;
+	font-size:14px;
+}
+
+.cnt3
+{
+	font-size:15px;
+	width:80%;
+}
+
+.cnt4
+{
+	font-size:15px;
+}
+
+.scp-btn
+{
+	width:25%;
+	border:1px solid black;
+	padding:1%;
+	border-radius:20px;
+	margin-top:2%;
+	margin-left:30%;
+}
+
+.job-img
+{
+	width:90%;
+	height:250px;
+	margin-top:3%;
+	margin-left:5%;
+}
+
+.footer
+{
+	height:200px;
+	background-color:skyblu;
+	display:flex;
+	gap:5%;
+	padding:3%;
+}
+
+.div-box1
+{
+	width:45%;
+	background-color:yello;
+	display:flex;
+	gap:1%;
+	margin-top:-30px;
+}
+
+.div1
+{
+	width:34%;
+	height:100%;
+	background-color:yello;
+	padding:1%;
+}
+
+.div-list
+{
+	font-size:16px;
+	color:grey;
+}
+
+.mrg-tp
+{
+	margin-top:15%;
+}
+
+.div-box2
+{
+	width:55%;
+	background-color:yello;
+	display:flex;
+	gap:2%;
+	margin-top:-30px;
+}
+
+.div2
+{
+	height:100%;
+	width:45%;
+}
+
+.qstn
+{
+	background-color:re;
+	height:50px;
+	display:flex;
+	gap:2%;
+}
+
+.qst
+{
+	color:grey;
+	font-size:25px;
+}
+
+.qstn-info
+{
+	margin-top:1%;
+}
+
+.qst-hd
+{
+	color:grey;
+	font-weight:bold;
+}
+
+.qst-dsp
+{
+	font-size:13px;
+}
+
+.div3
+{
+	width:55%;
+	height:100%;
+	background-color:re;
+}
+
+.head-select
+{
+	margin-left:10%;
+	color:grey;
+}
+
+select
+{
+	width:80%;
+	padding:1%;
+	margin-left:10%;
+	font-size:15px;
+	margin-top:2%;
+}
+
+main
+{
+	height:1660px;
 }

@@ -1,0 +1,112 @@
+
+.main
+{
+	display:none;
+}
+
+body
+{
+	margin:0px;
+}
+
+@media screen and (max-width:800px) 
+{
+	.main
+	{
+		display:block;
+	}
+	
+	.header
+	{
+		width:100%;
+		height:45px;
+		background-color:;
+		display:flex;
+		gap:2%;
+	}
+	
+	.close
+	{
+		text-decoration:none;
+		font-size:30px;
+		color:grey;
+		padding:2%;
+	}
+	
+	.shr
+	{
+		font-size:22px;
+		padding:3%;
+		font-weight:bold;
+	}
+	
+	.pst
+	{
+		background-color:lightgrey;
+		width:12%;
+		text-align:center;
+		height:20px;
+		padding:1%;
+		margin-top:3%;
+		color:grey;
+		border-radius:20px;
+		margin-left:47%;
+	}
+	
+	.profile
+	{
+		width:100%;
+		height:167px;
+		background-color:re;
+	}
+	
+	.me
+	{
+		display:flex;
+		gap:1%;
+		width:100%;
+	}
+	
+	.me-img
+	{
+		width:15%;
+		height:60px;
+		border-radius:50px;
+		padding:3%;
+	}
+	
+	.text
+	{
+		margin-top:5%;
+	}
+	
+	.pbl
+	{
+		margin-top:6%;
+		color:grey;
+		display:flex;
+		gap:5%;
+	}
+	
+	.name
+	{
+		fon-size:17px;
+		font-weight:bold;
+	}
+	
+	.dcpt
+	{
+		font-size:19px;
+		padding:2%;
+		color:grey;
+	}
+	
+	.icons
+	{
+		display:flex;
+		gap:5%;
+		font-size:25px;
+		padding:1%;
+		margin-left:2%;
+	}
+}
