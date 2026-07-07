@@ -521,12 +521,19 @@ body
 		width:100%;
 	}
 	
-	.me-jpg
+	.my-img
 	{
 		width:10%;
+		margin-top:1%;
+	}
+	
+	.me-jpg
+	{
+		width:100%;
 		height:36px;
 		border-radius:50px;
 		padding:1%;
+		margin-left:1%;
 	}
 	
 	.nav-items
@@ -546,7 +553,8 @@ body
 		height:25px;
 		margin-top:2%;
 		padding:1%;
-		border:1px solid black;
+		background-color:#F5F5F0;
+		border:none;
 	}
 	
 	.msg
